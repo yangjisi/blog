@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: jisi log
+description: 'study'
+url: 'https://yangjisi.github.io'
+baseurl: '/blog'
